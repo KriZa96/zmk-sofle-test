@@ -66,17 +66,17 @@ layers:
   - {t: '-', s: _}
   layer1:
   - F1
-  - F1
   - F2
   - F3
   - F4
   - F5
-  - {t: '$$mdi:menu-up$$', s: '$$mdi:mouse$$'}
   - F6
+  - {t: '$$mdi:menu-up$$', s: '$$mdi:mouse$$'}
   - F7
   - F8
   - F9
   - F10
+  - F11
   - F12
   - $$mdi:progress-download$$
   - {t: '$$mdi:backup-restore$$', type: bootloader}
